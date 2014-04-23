@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-
-    <string name="app_name">ITCTillage app</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="Satelite">satelite</string>
-    <string name="Standard"></string>
-    <string name="standard">Standard</string>
-    <string name="satellite">Satellite</string>
-
+    <string name="app_name">ITCTillage</string>
+    <string name="about_text">ITCTillage App "\n"
+  		Copyright by : @@@@@@@@ "\n"
+ 		This is not for commercial use
+        </string>
+    <string name="currentlocation">Current Location</string>
+    <string name="locationOnmap">Location on Map</string>
+    <string name="createLocation">Create Location</string>
+    <string name="landLocation">Land Location</string>
+    <string name="info">Info</string>
+    <string name="checkinbt">Save</string>
+    <string name="savecurrentcoordinate">Save current coordinate ?</string>
+    <string name="displayalllocation">Display All Locations</string>
+    <string name="saveinbt">Save</string>
+    <string name="delete">Delete</string>
 </resources>
